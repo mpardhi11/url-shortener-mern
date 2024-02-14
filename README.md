@@ -1,2 +1,3 @@
 # url-shortener-mern
-Creating URL shortner app using MERN Stack
+
+Creating URL shortener app using MERN Stack
