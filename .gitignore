@@ -133,3 +133,5 @@ dist
 # package.json
 
 .package-lock.json
+
+server/dist/
